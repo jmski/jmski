@@ -23,14 +23,12 @@ I love:
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"**Backend**
-<p>
-  https://skillicons.dev/icons?i=nodejs,express,python
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs">
 </p>
 
 ### **Tools & Workflow**
 <p>
-  <img src="https://skil/icons?i=git,github,vscode,figma
+  <img src="https://skil/icons?i=github,vscode,figma,netlify,sanityio">
 </p>
 
 ---
