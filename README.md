@@ -19,20 +19,6 @@ I love:
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs">
-</p>
-
-### **Tools & Workflow**
-<p>
-  <img src="https://skil/icons?i=github,vscode,figma,netlify,sanityio">
-</p>
-
----
-
 ## 📂 Current Project: **Jonchalon**
 > Building my personal digital ecosystem — a hub for brand, code, and creativity.
 
@@ -42,19 +28,6 @@ I love:
 🔹 Modular components for long‑term scalability  
 
 Stay tuned as I turn this repo into something awesome.
-
----
-
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jmski&onight
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmski&count_private=true&show_icons=true&theme=radicals
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.appangs/?username=jmski&layout=compact&theme=tokyonight
-</p>
 
 ---
 
