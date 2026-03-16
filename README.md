@@ -1,11 +1,6 @@
 
 <!-- Banner -->
 <h1 align="center">👋 Hey, I’m Jon — Web Developer & Digital Builder</h1>
-<p align="center">
-  <strong>Creating the Jonchalon Personal Brand Hub</strong><br/>
-  Clean • Functional • Purpose‑Driven Web Experiences
-</p>
-
 ---
 
 ## 🚀 About Me
