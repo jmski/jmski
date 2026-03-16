@@ -19,7 +19,7 @@ I love:
 
 ---
 
-## 📂 Current Project: **Jonchalon**
+## 📂 Current Project: **Jonchalant**
 > Building my personal digital ecosystem — a hub for brand, code, and creativity.
 
 🔹 Personal profile + portfolio  
@@ -33,7 +33,7 @@ Stay tuned as I turn this repo into something awesome.
 
 ## 🔗 Connect With Me
 <p>
-  https://www.jmgelua.ca🌐 Website</a>  
+  https://www.jonchalant.netlify.app🌐 Website</a>  
   <br/>
   https://linkedin.com/in/jmgelua💼 LinkedIn</a>
 </p>
